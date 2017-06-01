@@ -67,11 +67,3 @@ class Downloader(object):
             logger.info('Finish downloading')
         else:
             logger.info('Empty sources list')
-
-"""
-http://www.google.com, http://www.google.com, ftp://ftp.debian.org/debian/README.html
-
-
-ftp://debian.org/debian-security/README.security
-
-"""
