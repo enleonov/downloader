@@ -14,3 +14,4 @@
 1. Run `$ python run.py`
 2. Enter list of urls
 
+default result location `/tmp/downloader`
