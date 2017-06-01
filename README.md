@@ -4,12 +4,13 @@
 
 ## Prepare application
 
-  create virtual evnironment and install requirements:
-  `
+  Create virtual evnironment and install requirements:
+```bash
     $ virtualenv --python=/usr/bin/python venv
     $ source activate venv/
     $ pip install -r requirements.txt
-  `
+```
+
 Configuration file placed at ./downloader/data/downloader.cfg
 
 ## Run application
